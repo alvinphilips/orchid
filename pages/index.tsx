@@ -46,22 +46,22 @@ export default function Home() {
                 <TeamMemberCard
                   name="404: File Not Found"
                   role="Python Lover"
-                  image="https://polarvoid.github.io/orchid/team/yash.png"
+                  image="https://alvinphilips.github.io/orchid/team/yash.png"
                 />
                 <TeamMemberCard
                   name="Suven Pandey"
                   role="Not Noodles Expert"
-                  image="https://polarvoid.github.io/orchid/team/suven.jpg"
+                  image="https://alvinphilips.github.io/orchid/team/suven.jpg"
                 />
                 <TeamMemberCard
                   name="Datta Velivela"
                   role="Designer"
-                  image="https://polarvoid.github.io/orchid/team/datta.jpg"
+                  image="https://alvinphilips.github.io/orchid/team/datta.jpg"
                 />
                 <TeamMemberCard
                   name="Alvin"
                   role="Noodles Expert"
-                  image="https://polarvoid.github.io/orchid/team/alvin.png"
+                  image="https://alvinphilips.github.io/orchid/team/alvin.png"
                 />
               </div>
             </div>
